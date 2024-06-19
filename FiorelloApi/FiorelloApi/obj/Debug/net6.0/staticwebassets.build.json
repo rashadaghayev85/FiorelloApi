@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3a8CliPbEpTSWVIHjSrtYZXyDEDZU8kRD6V/CXxWlEk=",
+  "Source": "FiorelloApi",
+  "BasePath": "_content/FiorelloApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FiorelloApi\\wwwroot",
+      "Source": "FiorelloApi",
+      "ContentRoot": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\FiorelloApi\\FiorelloApi\\wwwroot\\",
+      "BasePath": "_content/FiorelloApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
